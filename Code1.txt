@@ -3,4 +3,5 @@ import stdio.h
 void main()
 {
 println("Hello");
+int a=1;
 }
