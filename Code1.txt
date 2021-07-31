@@ -1,0 +1,6 @@
+import stdio.h
+
+void main()
+{
+println("Hello");
+}
